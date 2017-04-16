@@ -1,4 +1,10 @@
-import 'object-assign'
+import objectAssign from 'object-assign'
+
+if (!Object.assign) {
+  Object.assign = objectAssign
+}
+
+
 import 'babel-polyfill'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
