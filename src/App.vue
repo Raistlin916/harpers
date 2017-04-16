@@ -31,5 +31,6 @@
   .footer-copyright {
     font-size: 14px;
     text-align: center;
+    padding-bottom: 20px;
   }
 </style>

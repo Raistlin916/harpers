@@ -45,6 +45,7 @@
     background: #FFF;
     box-shadow: 0px 2px 2px 0px rgba(195,195,195,0.50);
     padding: 0 10px;
+    min-width: 700px;
   }
   .header-logo {
     display: inline-block;

@@ -1,6 +1,4 @@
-'use strict';
-
-var extend = Object.assign.bind(Object)
+const extend = Object.assign.bind(Object);
 
 function EventEmitter() {
   this.__events = {};
@@ -12,9 +10,9 @@ EventEmitter.prototype = {
     return this;
   },
   emit: function(name) {
-    var arr = this.__events[name];
-    var argus = Array.prototype.slice.call(arguments, 1);
-    var self = this;
+    const arr = this.__events[name];
+    const argus = Array.prototype.slice.call(arguments, 1);
+    const self = this;
     if (arr) {
       arr.forEach(function(cb) {
         cb.apply(self, argus);
