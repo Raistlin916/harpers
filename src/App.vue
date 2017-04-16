@@ -29,8 +29,9 @@
     min-height: calc(100vh - 80px);
   }
   .footer-copyright {
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     padding-bottom: 20px;
+    color: #ccc;
   }
 </style>

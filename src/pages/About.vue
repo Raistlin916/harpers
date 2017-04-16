@@ -30,6 +30,10 @@
   .about-page__img {
     background-image: url('https://img.yzcdn.cn/public_files/2017/04/16/c352a5310809113ac06b42a2bb9613f6.png');
   }
+  .app__content {
+    margin: 60px auto 100px;
+    width: 600px;
+  }
   .app__content h3 {
     margin: 20px 0;
     font-size: 16px;
@@ -44,9 +48,5 @@
     margin-bottom: 15px;
     font-size: 12px;
     line-height: 1.4;
-  }
-  .app__content {
-    margin: 30px;
-    margin-bottom: 60px;
   }
 </style>
