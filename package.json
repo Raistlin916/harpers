@@ -34,8 +34,9 @@
     "wepback": "^1.0.0"
   },
   "dependencies": {
+    "babel-polyfill": "^6.23.0",
     "normalize.css": "^6.0.0",
-    "object-assign": "^4.1.0",
+    "object-assign": "^4.1.1",
     "promise-polyfill": "^6.0.2",
     "sticky-js": "^1.1.6",
     "superagent": "^3.3.2",
