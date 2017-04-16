@@ -1,0 +1,9 @@
+{
+  "plugins": ["vue"],
+  "extends": ["elemefe"],
+  "rules": {
+    "semi": 0,
+    "no-new": 0,
+    "operator-linebreak": ["error", "after"]
+  }
+}

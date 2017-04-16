@@ -1,0 +1,9 @@
+*.log*
+.cache
+.DS_Store
+.idea
+.supman-cache
+node_modules
+bower_components
+build
+test
