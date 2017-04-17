@@ -34,7 +34,7 @@
 
 <style>
   .header {
-    position: fixed;
+    position: absolute;
     height: 80px;
     line-height: 80px;
     top: 0;
