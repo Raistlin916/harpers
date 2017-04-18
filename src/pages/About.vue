@@ -1,6 +1,5 @@
 <template>
   <div class="about-page">
-    <div class="app__img about-page__img"></div>
     <div class="app__content about-page__content">
       <div class="about-page-item">
         <div class="about-page-item__content">

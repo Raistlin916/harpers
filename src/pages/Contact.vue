@@ -13,12 +13,6 @@
         </div>
       </div>
       <div class="form-row">
-        <div class="form-row__label"> </div>
-        <div class="form-row__text">
-          <a href="+86 14714362690">+86 14714362690</a>
-        </div>
-      </div>
-      <div class="form-row">
         <div class="form-row__label">WEB SITE:</div>
         <div class="form-row__text">
           <a href="/">www.harpers.com.cn</a>
