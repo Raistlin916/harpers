@@ -24,6 +24,12 @@
           <a href="mailto:contact@harpers.com.cn">contact@harpers.com.cn</a>
         </div>
       </div>
+      <div class="form-row">
+        <div class="form-row__label">ADD:</div>
+        <div class="form-row__text">
+          Edinburgh Tower, 15 Queen's Road, Central, Hongkong, China
+        </div>
+      </div>
     </div>
   </div>
 </template>
