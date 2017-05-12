@@ -17,7 +17,7 @@
           <p>
           We introduce people. <br>
           It sounds as simple as we make it look and with all of the experienced staff we have and our specialised knowledge and skill, it should be.
-          However, making things look simple requires experience and excellence of execution. We have the best tools, the deepest information and the most efficient operating protools.
+          However, making things look simple requires experience and excellence of execution. We have the best tools, the deepest information and the most efficient operating protocols.
           </p>
         </div>
       </div>

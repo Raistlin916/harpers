@@ -5,7 +5,7 @@
         <div class="work-page__content-text">
           <h3>WOULD YOU LIKE A REWARDING CAREER WITH US?</h3>
           <p>We are always looking for extraordinary people to join the team. We have a social recruitment program twice a year and we are always looking to strengthen our team with experienced recruiters and consultants.</p>
-          <p>For our candidates, your expertise, knowledge and professional skills will be fully evaluated, while the most important quality is your approach and attitude. We operate on behalf of some of the world’s most influential firms and talented people which requires you inable to add value.</p>
+          <p>For our candidates, your expertise, knowledge and professional skills will be fully evaluated, while the most important quality is your approach and attitude. We operate on behalf of some of the world’s most influential firms and talented people which requires you enable to add value.</p>
           <p>Our team will drive you go further than you thought only if you want to reach those goals. It’s your choice.</p>
           <p>We’d love to hear from you.</p>
         </div>
